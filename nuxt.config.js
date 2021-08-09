@@ -47,9 +47,9 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
-  },
-
-  router: {
-    base: '/bside_singlepage/'
   }
+
+  // router: {
+  //   base: '/bside_singlepage/'
+  // }
 }
