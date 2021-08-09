@@ -1,0 +1,15 @@
+.text-justify {
+  text-align-last: justify;
+}
+
+@font-face {
+  font-family: "Roborotica";
+  src: local("Roborotica"),
+   url(~assets/Roborotica.otf) format("opentype");
+}
+
+@font-face {
+  font-family: "Pirulen";
+  src: local("Pirulen"),
+   url(~assets/pirulen\ rg.otf) format("opentype");
+}
