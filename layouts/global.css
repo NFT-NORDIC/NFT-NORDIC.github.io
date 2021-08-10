@@ -2,6 +2,25 @@
   text-align-last: justify;
 }
 
+.bg-noise:before {
+  content: ' ';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.75;
+  background-image: url('~/assets/bg_noise.png');
+  background-size: 50% 50%;
+  background-repeat: repeat;
+}
+
+.drop-shadow-logo {
+  -webkit-filter: drop-shadow(0 0 4px #0024fef0) drop-shadow(0 0 15px #0024fe80);
+  filter: drop-shadow(0 0 4px #0024fef0) drop-shadow(0 0 15px #0024fe80);
+}
+
 @font-face {
   font-family: "Roborotica";
   src: local("Roborotica"),

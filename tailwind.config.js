@@ -31,9 +31,12 @@ module.exports = {
       piru: ['Pirulen']
     },
     letterSpacing: {
-      mid: '.05em',
+      mid: '.075em',
       wide: '.1em',
       verywide: '.2em'
+    },
+    strokeWidth: {
+      '1/2': '0.5'
     }
   },
   variants: {
