@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full p-8 lg:p-16 pb-64">
+  <div class="w-full p-8 lg:p-16 pb-64 lg:pb-64">
     <div class="border-b border-l border-white pb-6 lg:pb-8 pl-6 lg:pl-8 flex">
       <div class="flex-grow items-stretch">
         <h2 class="text-blue text-lg font-piru">Side - A</h2>
