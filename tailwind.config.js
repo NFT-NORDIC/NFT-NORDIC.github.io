@@ -22,7 +22,7 @@ module.exports = {
         DEFAULT: '#fd2bff'
       },
       gray: {
-        DEFAULT: '#151515'
+        DEFAULT: '#363636'
       }
     },
     fontFamily: {
@@ -31,12 +31,16 @@ module.exports = {
       piru: ['Pirulen']
     },
     letterSpacing: {
+      short: '-.03em',
       mid: '.075em',
       wide: '.1em',
       verywide: '.2em'
     },
     strokeWidth: {
       '1/2': '0.5'
+    },
+    animation: {
+      'spin-once': 'spin 1.5s linear'
     }
   },
   variants: {
