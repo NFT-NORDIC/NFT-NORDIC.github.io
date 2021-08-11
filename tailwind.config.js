@@ -40,7 +40,8 @@ module.exports = {
       '1/2': '0.5'
     },
     animation: {
-      'spin-once': 'spin 1.5s linear'
+      'spin-once': 'spin 1.5s linear',
+      'spin-4ever': 'spin 1.5s linear infinite'
     }
   },
   variants: {
