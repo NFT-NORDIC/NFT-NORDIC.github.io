@@ -1,9 +1,9 @@
 <template>
-  <div class="w-full p-8 pt-16 lg:p-16">
-    <div class="border-b border-l border-white pb-6 lg:pb-8 pl-6 lg:pl-8 flex">
+  <div class="w-full p-8 pt-16 md:p-16">
+    <div class="border-b border-l border-white pb-6 md:pb-8 pl-6 md:pl-8 flex">
       <div class="flex-grow items-stretch">
         <h2 class="text-blue text-lg font-piru">Side - A</h2>
-        <ul class="lg:mt-2 tracking-mid lg:tracking-wide text-sm lg:text-base">
+        <ul class="md:mt-2 tracking-mid md:tracking-wide text-sm md:text-base">
           <li>Breakbeat</li>
           <li>Hardcore / Dark</li>
           <li>Garage /</li>
@@ -11,9 +11,9 @@
           <li>Jungle</li>
         </ul>
       </div>
-      <div class="flex-grow items-stretch lg:text-left text-right">
+      <div class="flex-grow items-stretch md:text-left text-right">
         <h2 class="text-blue text-lg font-piru">Side - B</h2>
-        <ul class="lg:mt-2 tracking-mid lg:tracking-wide text-sm lg:text-base">
+        <ul class="md:mt-2 tracking-mid md:tracking-wide text-sm md:text-base">
           <li>Experimental /</li>
           <li>Drone</li>
           <li>Dub Techno /</li>
