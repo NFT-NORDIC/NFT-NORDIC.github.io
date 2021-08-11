@@ -8,8 +8,8 @@
           <span class="tracking-short md:tracking-wide">Secret location [CPH]</span>
         </p>
       </div>
-      <span class="text-red text-lg md:text-xl font-piru flex-grow md:flex-1 flex flex-col justify-center">
-        <a href="#" target="_blank">buy tickets</a>
+      <span class="text-red text-lg md:text-xl font-piru flex-grow md:flex-1 flex flex-col justify-center md:text-right drop-shadow-sm">
+        <a href="#" target="_blank">buy tickets&nbsp;</a>
       </span>
     </div>
   </div>

@@ -5,10 +5,29 @@
       <Main />
       <Footer />
     </div>
-    <Overlay class="drop-shadow-lg sticky bottom-8" />
+    <Overlay class="drop-shadow-lg sticky bottom-0" />
   </div>
 </template>
 
 <script>
-export default {}
+export default {
+  data () {
+    return {
+      title: 'B-SIDE',
+      descr: 'B-SIDE is dedicated to underground electronic music underrepresented in the Copenhagen scene. As on the B-Side of a record, a release that typically gets less attention, during the night artists are given the opportunity to play multiple sets, with a focus on something different from their usual style.'
+    }
+  },
+  head () {
+    return {
+      title: this.title,
+      meta: [
+        {
+          hid: this.descr,
+          name: this.descr,
+          content: this.descr
+        }
+      ]
+    }
+  }
+}
 </script>
