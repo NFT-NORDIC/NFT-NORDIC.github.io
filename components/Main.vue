@@ -33,6 +33,7 @@
     <p class="px-8 md:px-28 text-justify font-light normal-case z-10 relative">
       B-SIDE is dedicated to underground electronic music underrepresented in the Copenhagen scene.
       As on the B-Side of a record, a release that typically gets less attention, during the night artists are given the opportunity to play multiple sets, with a focus on something different from their usual style.
+      This is a limited capacity event. Only ticket holders will receive the location details.
     </p>
   </div>
 </template>

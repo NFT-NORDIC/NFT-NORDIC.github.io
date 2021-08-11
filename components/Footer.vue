@@ -7,8 +7,8 @@
           <h2 class="text-blue text-lg font-piru">Side - A</h2>
           <ul class="md:mt-2 tracking-mid md:tracking-wide text-sm md:text-base">
             <li>Breakbeat</li>
-            <li>Hardcore / Dark</li>
-            <li>Garage /</li>
+            <li>Hardcore /</li>
+            <li>Electro /</li>
             <li>Dancehall /</li>
             <li>Jungle</li>
           </ul>
