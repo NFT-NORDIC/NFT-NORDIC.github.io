@@ -9,7 +9,7 @@
         </p>
       </div>
       <span class="text-red text-lg md:text-xl font-piru flex-grow md:flex-1 flex flex-col justify-center md:text-right hover:text-blue">
-        <a href="https://buy.stripe.com/eVag2kb562xY1Xy144" target="_blank">buy tickets&nbsp;</a>
+        <a href="#" target="_blank">sold out!&nbsp;</a>
       </span>
     </div>
   </div>
