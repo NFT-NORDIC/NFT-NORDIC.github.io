@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'bside_singlepage',
+    title: 'nftnordic_landingpage',
     htmlAttrs: {
       lang: 'en'
     },
@@ -51,6 +51,6 @@ export default {
   }
 
   // router: {
-  //   base: '/bside_singlepage/'
+  //   base: '/nftnordic_landingpage/'
   // }
 }

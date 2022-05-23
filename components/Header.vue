@@ -1,21 +1,42 @@
 <template>
-  <div>
-    <div class="font-robo w-full z-0 absolute">
-      <svg class="fill-current text-gray text-lg tracking-verywide" viewBox="0 0 61 12">
-        <text x="-0.75" y="12">B.SIDE</text>
-      </svg>
+  <div class="bg-blue-500 md:px-32 px-16 py-8 text-xl">
+    <!-- place and time (mobile only) -->
+    <div class="flex md:hidden">
+      <span class="flex-auto">Copenhagen</span>
+      <span class="flex-auto text-right">August 12-13 2022</span>
     </div>
-    <div class="p-8 md:p-16 pb-0 w-full z-10 relative">
-      <div class="border-t border-r border-white py-6 pr-6 md:p-12 relative">
-        <div class="absolute bevel-tr" />
-        <h1 class="text-blue text-xl font-piru w-full mb-2">B.SIDE</h1>
-        <!-- <p class="tracking-wide font-sans text-justify w-48 flex-none">
-          20 AUG 2021 <br>
-          20.00 - 06.00 <br>
-          Secret location <br>
-          &nbsp;
-        </p> -->
+    <!-- top bar -->
+    <div class="text-white md:flex hidden">
+      <div class="flex-auto">NFT+NORDIC</div>
+      <div class="flex-auto text-right uppercase">
+        <span class="mx-4">
+          Home
+        </span>
+        <span class="mx-4">
+          Info
+        </span>
       </div>
+    </div>
+    <!-- title and text -->
+    <div class="my-16 text-center">
+      <h1 class="text-5xl">Unblocking NFTs</h1>
+      <p class="mt-8">
+        Blockchain, Web3 and NFTs <br>
+        Hype vs Reality <br>
+        Transformation of Creative industries — Art, Design, Architecture, Fashion<br>
+        Future of Financialisation <br>
+        Business and Brands in the Metaverse <br>
+        Role of Diversity in shaping inclusive futures<br>
+      </p>
+    </div>
+    <!-- buy tickets -->
+    <div class="mt-24 mb-8 text-center">
+      <button class="bg-white rounded-xl px-24 py-2">Join as a speaker</button>
+    </div>
+    <!-- place and time -->
+    <div class="md:flex hidden">
+      <span class="flex-auto">Copenhagen</span>
+      <span class="flex-auto text-right">August 12-13 2022</span>
     </div>
   </div>
 </template>
