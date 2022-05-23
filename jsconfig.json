@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": ".",
+    "baseUrl": "./nftnordic_landingpage",
     "paths": {
       "~/*": ["./*"],
       "@/*": ["./*"],
