@@ -24,3 +24,7 @@ body {
     height: auto;
     position: relative;
 }
+
+html {
+    font-size: 90%;
+}
