@@ -12,4 +12,15 @@
     background: url('~assets/footer.jpg');
 }
 
+.bg-lside {
+    background: url('~assets/lside_logo.svg') no-repeat center;
+}
 
+.bg-rside {
+    background: url('~assets/lside_logo.svg') no-repeat center;
+}
+
+body {
+    height: auto;
+    position: relative;
+}

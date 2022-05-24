@@ -22,19 +22,13 @@ For detailed explanation on how things work, check out the [documentation](https
 
 ## TODO
 - add graphics
-  - full text logo (header and footer)
-  - vertical full-text logo for graphics elements on the sides
-  - speakers photos
-  - sponsors logos
-  - some icons (low priority)
-  - "+" logo footer
+    - vertical full-text logo for graphics elements on the sides
 - add links
-  - nav links HOME INFO (header)
-  - sign up (footer)
-  - contact + some
+    - contact?
 - finishing touches
-  - font sizes
-  - margins and alignment
+    - font sizes
+    - margins and alignment
+    - proofread
 - host
-  - github org or user to transfer ownership to
-  - dns
+    - github org or user to transfer ownership to
+    - dns

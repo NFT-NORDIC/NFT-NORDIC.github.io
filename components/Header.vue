@@ -7,18 +7,20 @@
     </div>
     <!-- top bar -->
     <div class="md:flex hidden">
-      <div class="flex-auto">NFT+NORDIC</div>
-      <div class="flex-auto text-right uppercase">
+      <div class="flex-auto">
+        <img src="~/assets/logo.svg">
+      </div>
+      <!-- <div class="flex-auto text-right uppercase">
         <span class="mx-4">
           Home
         </span>
         <span class="mx-4">
           Info
         </span>
-      </div>
+      </div> -->
     </div>
     <!-- title and text -->
-    <div class="my-32 text-center">
+    <div class="md:my-40 my-16 text-center">
       <h1 class="text-5xl">Un(b)locking NFTs</h1>
       <p class="mt-8 text-darkblue">
         Blockchain, Web3 and NFTs <br>

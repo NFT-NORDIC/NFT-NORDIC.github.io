@@ -7,7 +7,7 @@
     <MainGoal />
     <MainPartners />
     <MainNikolajKunsthal />
-    <MainSubscribe />
+    <!-- <MainSubscribe /> -->
   </div>
 </template>
 
