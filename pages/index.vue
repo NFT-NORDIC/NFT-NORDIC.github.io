@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full font-serif font-light">
+  <div class="w-full font-roboto font-normal">
     <Header />
     <Main />
     <Footer />

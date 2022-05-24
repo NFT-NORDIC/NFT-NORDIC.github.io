@@ -1,81 +1,102 @@
 <template>
-  <div class="mx-8 text-center">
-    <h2 class="mb-8 text-2xl">Speakers</h2>
+  <div class="mx-8 text-center text-darkblue">
+    <h2 class="mb-8 text-2xl font-semibold">Humans</h2>
     <div class="grid md:grid-cols-5 grid-cols-2 gap-x-16 gap-y-24">
       <div class="space-y-4">
         <div class="bg-blue-300 mx-auto rounded-full w-32 h-32">
           <!-- image -->
         </div>
-        <p class="font-bold">Lorem ipsum dolor </p>
-        <p>Sit amet</p>
+        <p class="font-semibold">Frederik Hansson</p>
+        <p>
+          <a href="https://www.swaggerdao.xyz/" target="_blank">
+            SwaggerDAO
+          </a>
+        </p>
       </div>
       <div class="space-y-4">
         <div class="bg-blue-300 mx-auto rounded-full w-32 h-32">
           <!-- image -->
         </div>
-        <p class="font-bold">Consectetur adipiscing </p>
-        <p>Elit</p>
+        <p class="font-semibold">Gústav Friis </p>
+        <p>
+          <a href="https://near.org/" target="_blank">
+            Near Protocol
+          </a>
+        </p>
       </div>
       <div class="space-y-4">
         <div class="bg-blue-300 mx-auto rounded-full w-32 h-32">
           <!-- image -->
         </div>
-        <p class="font-bold">Suspendisse tincidunt </p>
-        <p>Elementum </p>
+        <p class="font-semibold">Lililashka</p>
+        <p>
+          <a href="https://twitter.com/lililashka" target="_blank">
+            NFTBerlin / Cryptomanga
+          </a>
+        </p>
       </div>
       <div class="space-y-4">
         <div class="bg-blue-300 mx-auto rounded-full w-32 h-32">
           <!-- image -->
         </div>
-        <p class="font-bold">Ultricies Fusce </p>
-        <p>Convallis</p>
+        <p class="font-semibold">Troels Abrahamsen</p>
+        <p>
+          <a href="https://derive.works/" target="_blank">
+            Derive
+          </a>
+        </p>
       </div>
       <div class="space-y-4">
         <div class="bg-blue-300 mx-auto rounded-full w-32 h-32">
           <!-- image -->
         </div>
-        <p class="font-bold">Nisl at vestibulum</p>
-        <p>Faucibus</p>
+        <p class="font-semibold">Jacob Czepluch</p>
+        <p>
+          <a href="https://www.meetup.com/Copenhagen-Ethereum-Meetup/" target="_blank">
+            ETH Web3 CPH Meetup
+          </a>
+        </p>
+      </div>
+
+      <div class="space-y-4">
+        <div class="bg-blue-300 mx-auto rounded-full w-32 h-32">
+          <!-- image -->
+        </div>
+        <p class="font-semibold">Is this you?</p>
+        <p>&nbsp;</p>
       </div>
       <div class="space-y-4">
         <div class="bg-blue-300 mx-auto rounded-full w-32 h-32">
           <!-- image -->
         </div>
-        <p class="font-bold">Lorem ipsum dolor </p>
-        <p>Sit amet</p>
+        <p class="font-semibold">Is this you?</p>
+        <p>&nbsp;</p>
       </div>
       <div class="space-y-4">
         <div class="bg-blue-300 mx-auto rounded-full w-32 h-32">
           <!-- image -->
         </div>
-        <p class="font-bold">Consectetur adipiscing </p>
-        <p>Elit</p>
+        <p class="font-semibold">Is this you?</p>
+        <p>&nbsp;</p>
       </div>
       <div class="space-y-4">
         <div class="bg-blue-300 mx-auto rounded-full w-32 h-32">
           <!-- image -->
         </div>
-        <p class="font-bold">Suspendisse tincidunt </p>
-        <p>Elementum </p>
+        <p class="font-semibold">Is this you?</p>
+        <p>&nbsp;</p>
       </div>
       <div class="space-y-4">
         <div class="bg-blue-300 mx-auto rounded-full w-32 h-32">
           <!-- image -->
         </div>
-        <p class="font-bold">Ultricies Fusce </p>
-        <p>Convallis</p>
-      </div>
-      <div class="space-y-4">
-        <div class="bg-blue-300 mx-auto rounded-full w-32 h-32">
-          <!-- image -->
-        </div>
-        <p class="font-bold">Nisl at vestibulum</p>
-        <p>Faucibus</p>
+        <p class="font-semibold">Is this you?</p>
+        <p>&nbsp;</p>
       </div>
     </div>
-    <p class="mt-16 text-xl underline">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScN3P4y3mqHyGs5WmeL0vZ0V903gUFNXrDHePwpDUJIxTfKTg/viewform?usp=sf_link" target="_blank" class="block mt-16 text-xl underline font-semibold">
       Apply as a speaker
-    </p>
+    </a>
   </div>
 </template>
 

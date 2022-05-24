@@ -22,27 +22,17 @@ For detailed explanation on how things work, check out the [documentation](https
 
 ## TODO
 - add graphics
-  - full-text logo for graphics elements on the sides and footer
-  - header artwork (crop)
-  - artwork picture 1
-  - artwork picture 2
+  - full text logo (header and footer)
+  - vertical full-text logo for graphics elements on the sides
   - speakers photos
   - sponsors logos
-  - venue picture
   - some icons (low priority)
-  - "+" logo
+  - "+" logo footer
 - add links
   - nav links HOME INFO (header)
-  - join as a speaker or artist (header)
-  - apply as a speaker
-  - join discord
-  - apply as a sponsor or partner
-  - check out location
   - sign up (footer)
   - contact + some
 - finishing touches
-  - speakers names and affilitations
-  - font family
   - font sizes
   - margins and alignment
 - host
