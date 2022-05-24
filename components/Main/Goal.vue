@@ -1,10 +1,7 @@
 <template>
-  <div class="md:mx-16 text-center text-darkblue">
-    <p class="mb-4 text-6xl leading-normal hidden md:block">
-      Our goal is to bring Nordic Countries on the global map of Blockchain through awareness, education and adoption.
-    </p>
-    <p class="mb-4 text-3xl leading-normal block md:hidden">
-      Our goal is to bring Nordic <br> Countries on the global map of <br> Blockchain through awareness, <br> education and adoption.
+  <div class="md:mx-8 text-center text-darkblue">
+    <p class="text-6xl leading-snug">
+      Over 2 days in August, we invite communities from the Nordics and beyond to explore the growing Web3 ecosystem through education, play and adoption.
     </p>
   </div>
 </template>

@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-header md:px-32 px-16 py-8 text-xl text-white font-semibold ">
+  <div class="bg-header md:px-48 px-16 py-16 text-xl text-white font-semibold">
     <!-- place and time (mobile only) -->
     <div class="flex md:hidden">
       <span class="flex-auto">Copenhagen</span>
@@ -8,7 +8,7 @@
     <!-- top bar -->
     <div class="md:flex hidden">
       <div class="flex-auto">
-        <img src="~/assets/logo.svg">
+        <img src="~/assets/logo.svg" />
       </div>
       <!-- <div class="flex-auto text-right uppercase">
         <span class="mx-4">
@@ -20,20 +20,26 @@
       </div> -->
     </div>
     <!-- title and text -->
-    <div class="md:my-40 my-16 text-center">
+    <div class="md:my-36 my-16 text-center">
       <h1 class="text-7xl">Un(b)locking NFTs</h1>
       <p class="mt-8 text-darkblue text-xl">
-        Blockchain, Web3 and NFTs <br>
-        Hype vs Reality <br>
-        Transformation of Creative industries — Art, Design, Architecture, Fashion<br>
-        Future of Financialisation <br>
-        Business and Brands in the Metaverse <br>
-        Role of Diversity in shaping inclusive futures<br>
+        Blockchain, Web3 and NFTs <br />
+        Hype vs Reality <br />
+        Transformation of Creative industries — Art, Design, Architecture,
+        Fashion<br />
+        Future of Financialisation <br />
+        Business and Brands in the Metaverse <br />
+        Role of Diversity in shaping inclusive futures<br />
       </p>
     </div>
     <!-- buy tickets -->
     <div class="mt-24 mb-8 text-center">
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLScN3P4y3mqHyGs5WmeL0vZ0V903gUFNXrDHePwpDUJIxTfKTg/viewform?usp=sf_link" target="_blank" class="inline-block bg-darkblue rounded-xl px-24 py-2 font-bold text-xl">Join as a speaker or Artist</a>
+      <a
+        href="https://docs.google.com/forms/d/e/1FAIpQLScN3P4y3mqHyGs5WmeL0vZ0V903gUFNXrDHePwpDUJIxTfKTg/viewform?usp=sf_link"
+        target="_blank"
+        class="inline-block bg-darkblue rounded-xl px-20 py-4 font-bold text-xl"
+        >Join as a speaker or Artist</a
+      >
     </div>
     <!-- place and time -->
     <div class="md:flex hidden text-2xl">
