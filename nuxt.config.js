@@ -50,7 +50,7 @@ export default {
   build: {
   },
 
-  // router: {
-  //   base: '/nftnordic_landingpage/'
-  // }
+  router: {
+    base: '/nftnordic_landingpage/'
+  }
 }
