@@ -1,6 +1,6 @@
 <template>
   <div class="mx-8 text-center text-darkblue">
-    <h2 class="mb-8 text-2xl font-semibold">Humans</h2>
+    <h2 class="mb-8 text-4xl font-semibold">Humans</h2>
     <div class="grid md:grid-cols-5 grid-cols-2 gap-x-16 gap-y-24">
       <a href="https://www.swaggerdao.xyz/" target="_blank">
         <div class="space-y-4">
@@ -9,7 +9,7 @@
             class="mx-auto rounded-full w-32 h-32"
           />
           <p class="font-semibold">Frederik Hansson</p>
-          <p>SwaggerDAO</p>
+          <p class="text-sm">SwaggerDAO</p>
         </div>
       </a>
       <a href="https://near.org/" target="_blank">
@@ -19,7 +19,7 @@
             class="mx-auto rounded-full w-32 h-32"
           />
           <p class="font-semibold">Gústav Friis</p>
-          <p>Near Protocol</p>
+          <p class="text-sm">Near Protocol</p>
         </div>
       </a>
       <a href="https://twitter.com/lililashka" target="_blank">
@@ -29,7 +29,7 @@
             class="mx-auto rounded-full w-32 h-32"
           />
           <p class="font-semibold">Lililashka</p>
-          <p>NFTBerlin / Cryptomanga</p>
+          <p class="text-sm">NFTBerlin / Cryptomanga</p>
         </div>
       </a>
       <a href="https://derive.works/" target="_blank">
@@ -39,7 +39,7 @@
             class="mx-auto rounded-full w-32 h-32"
           />
           <p class="font-semibold">Troels Abrahamsen</p>
-          <p>Derive</p>
+          <p class="text-sm">Derive</p>
         </div>
       </a>
       <a
@@ -52,7 +52,7 @@
             class="mx-auto rounded-full w-32 h-32"
           />
           <p class="font-semibold">Jacob Czepluch</p>
-          <p>ETH Web3 CPH Meetup</p>
+          <p class="text-sm">ETH Web3 CPH Meetup</p>
         </div>
       </a>
 
@@ -62,7 +62,7 @@
             class="mx-auto rounded-full w-32 h-32"
           />
         <p class="font-semibold">Is this you?</p>
-        <p>&nbsp;</p>
+        <p class="text-sm">&nbsp;</p>
       </div>
       <div class="space-y-4">
         <img
@@ -70,7 +70,7 @@
             class="mx-auto rounded-full w-32 h-32"
           />
         <p class="font-semibold">Is this you?</p>
-        <p>&nbsp;</p>
+        <p class="text-sm">&nbsp;</p>
       </div>
       <div class="space-y-4">
         <img
@@ -78,7 +78,7 @@
             class="mx-auto rounded-full w-32 h-32"
           />
         <p class="font-semibold">Is this you?</p>
-        <p>&nbsp;</p>
+        <p class="text-sm">&nbsp;</p>
       </div>
       <div class="space-y-4">
         <img
@@ -86,7 +86,7 @@
             class="mx-auto rounded-full w-32 h-32"
           />
         <p class="font-semibold">Is this you?</p>
-        <p>&nbsp;</p>
+        <p class="text-sm">&nbsp;</p>
       </div>
       <div class="space-y-4">
         <img
@@ -94,13 +94,13 @@
             class="mx-auto rounded-full w-32 h-32"
           />
         <p class="font-semibold">Is this you?</p>
-        <p>&nbsp;</p>
+        <p class="text-sm">&nbsp;</p>
       </div>
     </div>
     <a
       href="https://docs.google.com/forms/d/e/1FAIpQLScN3P4y3mqHyGs5WmeL0vZ0V903gUFNXrDHePwpDUJIxTfKTg/viewform?usp=sf_link"
       target="_blank"
-      class="block mt-16 text-xl underline font-semibold"
+      class="block mt-16 text-2xl underline font-semibold"
     >
       Apply as a speaker
     </a>
