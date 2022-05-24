@@ -1,12 +1,12 @@
 <template>
-  <div class="mx-8 text-center text-darkblue">
+  <div class="md:mx-8 text-center text-darkblue">
     <h2 class="mb-12 text-4xl font-semibold">Humans</h2>
-    <div class="grid md:grid-cols-5 grid-cols-2 gap-x-16 gap-y-24">
+    <div class="grid md:grid-cols-5 grid-cols-2 md:gap-x-16 gap-x-12 md:gap-y-24 gap-y-16">
       <a href="https://www.swaggerdao.xyz/" target="_blank">
         <div class="">
           <img
             src="~/assets/speakers/Frederik.png"
-            class="mx-auto rounded-full w-32 h-32"
+            class="mx-auto rounded-full md:w-32 md:h-32 w-28 h-28"
           />
           <p class="mt-6 font-semibold">Frederik Hansson</p>
           <p class="mt-2 font-semibold text-xs">SwaggerDAO</p>
@@ -16,7 +16,7 @@
         <div class="">
           <img
             src="~/assets/speakers/Gustav.jpg"
-            class="mx-auto rounded-full w-32 h-32"
+            class="mx-auto rounded-full md:w-32 md:h-32 w-28 h-28"
           />
           <p class="mt-6 font-semibold">Gústav Friis</p>
           <p class="mt-2 font-semibold text-xs">Near Protocol</p>
@@ -26,7 +26,7 @@
         <div class="">
           <img
             src="~/assets/speakers/Lililashka.jpg"
-            class="mx-auto rounded-full w-32 h-32"
+            class="mx-auto rounded-full md:w-32 md:h-32 w-28 h-28"
           />
           <p class="mt-6 font-semibold">Lililashka</p>
           <p class="mt-2 font-semibold text-xs">NFTBerlin / Cryptomanga</p>
@@ -36,7 +36,7 @@
         <div class="">
           <img
             src="~/assets/speakers/Troels.jpg"
-            class="mx-auto rounded-full w-32 h-32"
+            class="mx-auto rounded-full md:w-32 md:h-32 w-28 h-28"
           />
           <p class="mt-6 font-semibold">Troels Abrahamsen</p>
           <p class="mt-2 font-semibold text-xs">Derive</p>
@@ -49,7 +49,7 @@
         <div class="">
           <img
             src="~/assets/speakers/Jacob.jpg"
-            class="mx-auto rounded-full w-32 h-32"
+            class="mx-auto rounded-full md:w-32 md:h-32 w-28 h-28"
           />
           <p class="mt-6 font-semibold">Jacob Czepluch</p>
           <p class="mt-2 font-semibold text-xs">ETH Web3 CPH Meetup</p>
@@ -59,7 +59,7 @@
       <div class="">
         <img
             src="~/assets/speakers/placeholders/profile_pic_1.png"
-            class="mx-auto rounded-full w-32 h-32"
+            class="mx-auto rounded-full md:w-32 md:h-32 w-28 h-28"
           />
         <p class="mt-6 font-semibold">Is this you?</p>
         <p class="mt-2 font-semibold text-xs">&nbsp;</p>
@@ -67,7 +67,7 @@
       <div class="">
         <img
             src="~/assets/speakers/placeholders/profile_pic_2.png"
-            class="mx-auto rounded-full w-32 h-32"
+            class="mx-auto rounded-full md:w-32 md:h-32 w-28 h-28"
           />
         <p class="mt-6 font-semibold">Is this you?</p>
         <p class="mt-2 font-semibold text-xs">&nbsp;</p>
@@ -75,7 +75,7 @@
       <div class="">
         <img
             src="~/assets/speakers/placeholders/profile_pic_3.png"
-            class="mx-auto rounded-full w-32 h-32"
+            class="mx-auto rounded-full md:w-32 md:h-32 w-28 h-28"
           />
         <p class="mt-6 font-semibold">Is this you?</p>
         <p class="mt-2 font-semibold text-xs">&nbsp;</p>
@@ -83,7 +83,7 @@
       <div class="">
         <img
             src="~/assets/speakers/placeholders/profile_pic_4.png"
-            class="mx-auto rounded-full w-32 h-32"
+            class="mx-auto rounded-full md:w-32 md:h-32 w-28 h-28"
           />
         <p class="mt-6 font-semibold">Is this you?</p>
         <p class="mt-2 font-semibold text-xs">&nbsp;</p>
@@ -91,7 +91,7 @@
       <div class="">
         <img
             src="~/assets/speakers/placeholders/profile_pic_5.png"
-            class="mx-auto rounded-full w-32 h-32"
+            class="mx-auto rounded-full md:w-32 md:h-32 w-28 h-28"
           />
         <p class="mt-6 font-semibold">Is this you?</p>
         <p class="mt-2 font-semibold text-xs">&nbsp;</p>

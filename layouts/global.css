@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;600;700&display=swap');
 
 .bg-header {
-    background: url('~assets/header.jpg');
+    background: url('~assets/header.jpg') center;
 }
 
 .bg-discord {
@@ -13,11 +13,13 @@
 }
 
 .bg-lside {
-    background: url('~assets/lside_logo.svg') no-repeat center;
+    background: url('~assets/lside_logo.svg') repeat-y center;
+    background-size: contain;
 }
 
 .bg-rside {
-    background: url('~assets/lside_logo.svg') no-repeat center;
+    background: url('~assets/lside_logo.svg') repeat-y center;
+    background-size: contain;
 }
 
 body {

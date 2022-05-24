@@ -1,7 +1,7 @@
 <template>
-  <div class="md:mx-64 p-32 bg-discord text-center text-white">
+  <div class="md:mx-64 md:p-32 p-8 bg-discord text-center text-white">
     <h2 class="text-4xl uppercase font-semibold">Discord</h2>
-    <p class="mt-4 px-8 text">
+    <p class="mt-4 md:px-8 text">
       Are you an Artist, Designer, Musician, Architect, Blockchain enthusiast or
       critic, Futurist, Developer, Student, Cultural institution or Experimental
       community, Governmental organisation, Business, Foundation or other?

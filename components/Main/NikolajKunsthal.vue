@@ -1,5 +1,5 @@
 <template>
-  <div class="md:mx-0 mx-16">
+  <div class="md:mx-0 mx-8">
     <h2
       class="
         mb-12
