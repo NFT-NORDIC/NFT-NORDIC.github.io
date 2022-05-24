@@ -21,8 +21,6 @@ For detailed explanation on how things work, check out the [documentation](https
 
 
 ## TODO
-- add graphics
-    - vertical full-text logo for graphics elements on the sides
 - add links
     - contact?
 - finishing touches
