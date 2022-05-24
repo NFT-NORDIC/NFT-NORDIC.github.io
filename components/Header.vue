@@ -22,7 +22,7 @@
     <!-- title and text -->
     <div class="md:my-36 my-16 text-center">
       <h1 class="text-7xl">Un(b)locking NFTs</h1>
-      <p class="mt-8 text-darkblue text-xl">
+      <p class="mt-12 text-darkblue text-xl">
         Blockchain, Web3 and NFTs <br />
         Hype vs Reality <br />
         Transformation of Creative industries — Art, Design, Architecture,
