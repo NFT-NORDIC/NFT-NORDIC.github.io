@@ -19,14 +19,3 @@ $ npm run generate
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
-
-## TODO
-- add links
-    - contact?
-- finishing touches
-    - font sizes
-    - margins and alignment
-    - proofread
-- host
-    - github org or user to transfer ownership to
-    - dns

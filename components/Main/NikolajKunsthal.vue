@@ -3,7 +3,8 @@
     <h2
       class="
         mb-12
-        text-6xl
+        md:text-6xl
+        text-5xl
         md:leading-snug md:text-left
         text-center
         font-semibold

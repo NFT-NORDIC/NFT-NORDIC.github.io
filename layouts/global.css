@@ -13,13 +13,18 @@
 }
 
 .bg-lside {
-    background: url('~assets/lside_logo.svg') repeat-y center;
+    background: url('~assets/lside_logo.svg') repeat-y;
     background-size: contain;
 }
 
 .bg-rside {
-    background: url('~assets/lside_logo.svg') repeat-y center;
+    background: url('~assets/lside_logo.svg') repeat-y;
     background-size: contain;
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
 }
 
 body {
