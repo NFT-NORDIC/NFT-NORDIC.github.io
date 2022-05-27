@@ -14,12 +14,12 @@
       Nikolaj <br />
       Kunsthal
     </h2>
-    <div class="flex md:flex-row md:items-center flex-col md:gap-x-64 gap-y-8">
-      <div class="flex-none">
+    <div class="flex md:flex-row md:items-center flex-col  md:gap-x-24 lg:gap-x-48 gap-y-8">
+      <div class="flex-shrink">
         <!-- image -->
         <img class="" src="~/assets/nikolaj.jpg" />
       </div>
-      <div class="flex-1">
+      <div class="flex-grow md:w-1/3">
         <p class="mb-8 text-2xl">
           Nikolaj Kunsthal is Copenhagen's contemporary art and exhibition space
           with focus on innovative and experimental art.
