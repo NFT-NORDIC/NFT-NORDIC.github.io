@@ -48,9 +48,9 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
-  },
-
-  router: {
-    base: '/nftnordic_landingpage/'
   }
+
+//   router: {
+//     base: '/nftnordic_landingpage/'
+//   }
 }
