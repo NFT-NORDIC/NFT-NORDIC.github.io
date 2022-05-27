@@ -14,7 +14,16 @@
       Nikolaj <br />
       Kunsthal
     </h2>
-    <div class="flex md:flex-row md:items-center flex-col  md:gap-x-24 lg:gap-x-48 gap-y-8">
+    <div
+      class="
+        flex
+        md:flex-row md:items-center
+        flex-col
+        md:gap-x-24
+        lg:gap-x-48
+        gap-y-8
+      "
+    >
       <div class="flex-shrink">
         <!-- image -->
         <img class="" src="~/assets/nikolaj.jpg" />
